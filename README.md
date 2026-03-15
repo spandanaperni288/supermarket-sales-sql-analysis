@@ -191,6 +191,6 @@ ORDER BY month_num;
 
 ## About
 
-I'm Spandana Perni an aspiring business analyst with a background in recruitment coordination, transitioning into data analytics. This project demonstrates practical SQL skills applied to real-world retail data — the kind of analysis used in operations, sales, and business performance roles.
+"I'm Spandana Perni, a Recruitment Operations Analyst at Randstad India supporting Microsoft's US hiring operations. This project demonstrates SQL skills applied to retail sales analysis — covering revenue trends, customer behaviour, and product performance using window functions and structured business analysis."
 
 Open to entry-level to mid-level analyst opportunities.
